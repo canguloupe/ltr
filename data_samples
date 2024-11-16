@@ -1,0 +1,49 @@
+ #   Column          Dtype 
+---  ------          ----- 
+ 0   example_id      int64 
+ 1   query           object
+ 2   query_id        int64 
+ 3   product_id      object
+ 4   product_locale  object
+ 5   esci_label      object
+ 6   small_version   int64 
+ 7   large_version   int64 
+ 8   split           object
+dtypes: int64(4), object(5)
+memory usage: 200.0+ MB
+
+0,0,revent 80 cfm,0,B000MOO21W,us,I,0,1,train
+1,1,revent 80 cfm,0,B07X3Y6B1V,us,E,0,1,train
+2,2,revent 80 cfm,0,B07WDM7MQQ,us,E,0,1,train
+3,3,revent 80 cfm,0,B07RH6Z8KW,us,E,0,1,train
+4,4,revent 80 cfm,0,B07QJ7WYFQ,us,E,0,1,train
+5,5,revent 80 cfm,0,B076Q7V5WX,us,E,0,1,train
+6,6,revent 80 cfm,0,B075ZBF9HG,us,E,0,1,train
+7,7,revent 80 cfm,0,B06W2LB17J,us,E,0,1,train
+8,8,revent 80 cfm,0,B07JY1PQNT,us,E,0,1,train
+9,9,revent 80 cfm,0,B01MZIK0PI,us,E,0,1,train
+
+
+Data columns (total 7 columns):
+ #   Column                Dtype 
+---  ------                ----- 
+ 0   product_id            object
+ 1   product_title         object
+ 2   product_description   object
+ 3   product_bullet_point  object
+ 4   product_brand         object
+ 5   product_color         object
+ 6   product_locale        object
+dtypes: object(7)
+memory usage: 96.9+ MB
+
+0,B079VKKJN7,"11 Degrees de los Hombres Playera con Logo, Negro, L","Esta playera con el logo de la marca Carrier de 11 Degrees viene en negro, con el logo de la marca en el pecho y un pequeño texto en la parte posterior. La camiseta tiene cuello redondo y manga corta.",11 Degrees Negro Playera con logo\nA estrenar y genuina. Somos un vendedor autorizado de 11 Degrees.\nVer descripción del producto para obtener más información.,11 Degrees,Negro,es
+1,B079Y9VRKS,Camiseta Eleven Degrees Core TS White (M),None,None,11 Degrees,Blanco,es
+2,B07DP4LM9H,"11 Degrees de los Hombres Core Pull Over Hoodie, Azul, S","La sudadera con capucha Core Pull Over de 11 Grados viene en color azul marino, con una capucha ajustable con cordones. Con un bolsillo en la parte delantera, esta sudadera con capucha para hombre tiene un logotipo de goma en la parte delantera y ojales de marca.",11 Degrees Azul Core Pull Over Hoodie\nA estrenar y genuina. Somos un vendedor autorizado de 11 Degrees.\nVer descripción del producto para obtener más información.,11 Degrees,Azul,es
+3,B07G37B9HP,11 Degrees Poli Panel Track Pant XL Black,None,None,11 Degrees,None,es
+4,B07LCTGDHY,11 Degrees Gorra Trucker Negro OSFA (Talla única para Todos sexos),None,None,11 Degrees,Negro (,es
+5,B07MSD1JH3,"11 Degrees de los Hombres Optum Poly Joggers, Negro, XL","Los Optum Poly Joggers de 11 grados vienen con tobillos elásticos con cremallera y un logotipo de goma en el muslo. En color negro, estos joggers para hombre cuentan con cordón elástico en la cintura y bolsillos laterales abiertos. Estos corredores también se divierten marcando ambas piernas.",11 Degrees Negro Optum Poly Joggers\nA estrenar y genuina. Somos un vendedor autorizado de 11 Degrees.\nVer descripción del producto para obtener más información.,11 Degrees,Negro,es
+6,B07QKLGMHM,11 Degrees Core Zip Poly Top S Black,El Chándal ha sido diseñado con mangas largas con puños y una cremallera con cierre completo. El icónico logo de 11 Degrees se encuentra ubicado en la parte izquierda del pecho.Corte estándarTejido suave de poliésterCremallera con cierre enteroManga larga con puñosLogo de 11 Degrees100% poliésterLavar a máquina según las instrucciones de la etiqueta,None,11 Degrees,Negro,es
+7,B07S1VM815,11 Degrees Camiseta De Núcleo M Hot Red,None,None,11 Degrees,None,es
+8,B07T1HCDXG,11 Degrees Trucker Cap - Black & White,None,None,11 Degrees,Black & White,es
+9,B07VCV1LSQ,11 Degrees Chaqueta Espacial S Black,"La chaqueta Space Puffer de 11 Degrees viene con bolsillos con cremallera, con un logotipo de goma en el pecho. Esta chaqueta, que viene en color negro, tiene un cierre de cremallera y una capucha elástica. Esta chaqueta también tiene puños y dobladillo elásticos.",11 Degrees Negro Chaqueta acolchada\nA estrenar y genuina. Somos un vendedor autorizado de 11 Degrees.\nVer descripción del producto para obtener más información.,11 Degrees,Negro,es
